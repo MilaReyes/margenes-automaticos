@@ -1,0 +1,23 @@
+.up{
+	border: 10px solid yellow;
+	width:140px;
+	height:130px;
+
+}
+.primero{
+	text-align: center;
+	margin:15px;
+	font-size:9px;
+
+}
+.down{
+	border: 10px solid yellow;
+	width:140px;
+	height:130px;
+    margin:0 auto;
+}
+.segundo{
+	text-align: center;
+	margin:15px;
+	font-size:9px;	
+}
